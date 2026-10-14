@@ -1,23 +1,22 @@
-# Prompt Engineering Lab
+# TechFlow Prompt Engineering Lab
 
-**Track:** Module 2 — Prompt engineering · **When:** Week 2, Day 5 · **Status:** Required
-
-This repository contains everything you need for this lab.
+This lab compares three prompt versions for sentiment analysis, product descriptions, and customer-feedback extraction.
 
 ## Files
+- `prompt_engineering_lab.ipynb`: code, prompts, recorded outputs, failure analysis, and final comparison.
+- `lab_summary.md`: one-paragraph learning reflection.
+- `requirements.txt`: Python dependencies.
+- `.gitignore`: excludes local secrets and temporary files.
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+## How to run
+1. Install Python dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Create a local `.env` file beside the notebook:
+   ```text
+   OPENAI_API_KEY=your_api_key
+   ```
+3. Open the notebook in VS Code, select your Python environment, and execute cells in order.
 
-## How to complete this lab
-
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
-
-## Submission hygiene
-
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+The notebook uses OpenAI API calls. Running all cells again sends new requests and may produce different outputs. Do not commit the `.env` file.

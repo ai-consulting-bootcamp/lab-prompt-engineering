@@ -1,0 +1,5 @@
+One single paragraph summarizing what you tried, what failed or improved, which techniques helped most, and what you would do differently next time:
+I tested initial zero-shot prompts for sentiment analysis, product description generation, and data extraction, then ran each prompt repeatedly across 5, 10, and 15 iterations to identify inconsistencies in formatting, content, and reliability. 
+The first versions often produced variable outputs and different structures, while later versions improved after adding explicit instructions, output constraints, and structured formats. 
+Few-shot prompting helped most with sentiment classification and product-description consistency, while structured fields and guided reasoning were especially useful for data extraction. 
+Next time, I would define evaluation criteria and test cases earlier, automate the comparison of outputs, and improve each prompt based on its weaknesses.

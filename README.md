@@ -1,23 +1,36 @@
-# Prompt Engineering Lab
+# Prompt Engineering Lab: TechFlow Solutions Chatbot
 
-**Track:** Module 2 — Prompt engineering · **When:** Week 2, Day 5 · **Status:** Required
+Ironhack AI Consulting & Integration Bootcamp lab. Three customer service prompts (sentiment analysis, product description generation and data extraction) are run 5, 10 and 15 times to measure consistency, then improved in two iterations: v2 (clarity, format, constraints) and v3 (few-shot examples, Chain-of-Thought). Target: more than 80% consistency over 15 runs.
 
-This repository contains everything you need for this lab.
+The one-paragraph lab summary is in [`lab_summary.md`](lab_summary.md).
 
-## Files
+## Repository map
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+| File | Contents |
+|---|---|
+| [`prompt_engineering_lab.ipynb`](prompt_engineering_lab.ipynb) | Code, prompts v1 to v3, test results, failure analysis, variations, final report, bonus and costs |
+| [`lab_summary.md`](lab_summary.md) | One-paragraph summary of the lab |
+| `README.md` | How to run the work and a map of the repository |
+| `.gitignore` | Keeps `.env` (the API key) and Jupyter checkpoints out of the repository |
 
-## How to complete this lab
+## Where each deliverable is in the notebook
 
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
+| Deliverable | Location |
+|---|---|
+| v1, v2 and v3 prompts for all three tasks | Steps 2, 6 to 8, and 9 to 11 |
+| Results from the 5, 10 and 15-run tests | Steps 3, 4 and 5 |
+| Failure analysis table and failure patterns | Step 5 |
+| Variation tests and needed adjustments | Step 12 |
+| Consistency for all versions and v1 vs v3 comparison | Cell 13.2 and the Final Report |
+| Final v3 prompts and why each improvement was made | Cell 13.3 and the Final Report |
+| Bonus: Challenge 4, evaluation framework | Bonus section at the end (cells B.1 to B.3) |
+| Cost comparison across versions | Cost section at the end (cells C.1 to C.3) |
 
-## Submission hygiene
+## How to run
 
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+1. Use Python 3.9 or newer, Jupyter (VS Code or JupyterLab) and an OpenAI API key.
+2. In the repository folder, create a `.env` file containing one line: `OPENAI_API_KEY=your-key-here`. The file is listed in `.gitignore`, so the key is never committed.
+3. Open `prompt_engineering_lab.ipynb` and run all cells from top to bottom. The first code cell installs `openai`, `python-dotenv` and `pandas`.
+4. Save the notebook after the run, so the outputs stay in the file.
+
+A full run makes about 330 calls to `gpt-4o-mini` (60 of them in the bonus section), one after another, and takes about 12 to 18 minutes (well under $1).

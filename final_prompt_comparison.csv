@@ -1,0 +1,10 @@
+Task,Version,Consistency (%),Meets 80% Target
+Sentiment,V1,13.333333333333334,False
+Sentiment,V2,100.0,True
+Sentiment,V3,100.0,True
+Product,V1,6.666666666666667,False
+Product,V2,6.666666666666667,False
+Product,V3,6.666666666666667,False
+Extraction,V1,46.666666666666664,False
+Extraction,V2,100.0,True
+Extraction,V3,100.0,True

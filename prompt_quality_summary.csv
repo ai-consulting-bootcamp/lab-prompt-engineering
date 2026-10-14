@@ -1,0 +1,6 @@
+Task,Metric,Result (%)
+Sentiment V3,Label accuracy,100.0
+Product V2,Length compliance,100.0
+Product V3,Length compliance,100.0
+Extraction V2,JSON validity,100.0
+Extraction V3,JSON validity,100.0

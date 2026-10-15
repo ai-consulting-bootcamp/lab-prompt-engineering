@@ -1,0 +1,8 @@
+# Lab Summary: Prompt Engineering Lab (TechFlow Solutions)
+
+**What I tried:** I ran three customer service prompts for TechFlow Solutions (sentiment analysis, product description generation and data extraction) 5, 10 and 15 times at a fixed temperature and measured how often the most common answer appeared.\
+**What failed:** the zero-shot v1 prompts never defined an output format, so consistency over 15 runs was only 40% for sentiment, 40% for product descriptions and 47% for extraction, with sentences instead of labels and bullet lists instead of JSON.\
+**What improved:** v2 (a third-person role in the system message, explicit formats and constraints at the end of the prompt) raised consistency to 100%, 100% and 87%, and v3 (few-shot examples and Chain-of-Thought) brought all three to 100%, which held in the final re-run.\
+**What helped most:** the closed label set for classification, examples for generation (they also stopped invented product names) and Chain-of-Thought with fixed allowed values for extraction (it removed an invented year); the trade-off is that the v3 prompts are 5 to 17 times longer in tokens.\
+**What still needs work:** consistent is not the same as correct. A mixed-sentiment message was labelled positive in every run because no mixed label exists, and an arrival date was read as the order date in 4 of 5 runs.\
+**Next time:** I would agree the label set and the consistency rule with the business first, test more varied inputs from the start, trim the v3 prompts for cost, and compare the results at temperature 0 or with a fixed seed.

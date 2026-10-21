@@ -1,0 +1,46 @@
+Task,Version,Label,Runs,unique_outputs,consistency_%,label_consistency_%,format_compliance_%,errors,accuracy_%,words_mean,words_cv_%,headline_ok_%,three_features_%,length_ok_%,price_ok_%,no_invented_numbers_%,text_consistency_%,parse_rate_%,raw_json_%,field_accuracy_%,schema_valid_%
+Sentiment,v1,diagnosis,5,5,20.0,100.0,0.0,0,100.0,,,,,,,,,,,,
+Product,v1,diagnosis,5,5,0.0,,,0,,291.6,8.0,0.0,0.0,0.0,100.0,20.0,,,,,
+Extraction,v1,diagnosis,5,3,0.0,,,0,,,,,,,,,60.0,0.0,0.0,0.0,
+Sentiment,v1,diagnosis,10,7,20.0,100.0,0.0,0,100.0,,,,,,,,,,,,
+Product,v1,diagnosis,10,10,0.0,,,0,,298.7,9.0,0.0,0.0,0.0,100.0,0.0,,,,,
+Extraction,v1,diagnosis,10,9,0.0,,,0,,,,,,,,,20.0,0.0,0.0,0.0,
+Sentiment,v1,diagnosis,15,9,20.0,100.0,0.0,0,100.0,,,,,,,,,,,,
+Product,v1,diagnosis,15,15,0.0,,,0,,301.1,6.4,0.0,0.0,0.0,100.0,0.0,,,,,
+Extraction,v1,diagnosis,15,8,0.0,,,0,,,,,,,,,40.0,0.0,0.0,0.0,
+Sentiment,v2,iteration1,15,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Product,v2,iteration1,15,15,80.0,,,0,,49.1,7.2,100.0,100.0,100.0,80.0,100.0,,,,,
+Extraction,v2,iteration1,15,3,73.3,,,0,,,,,,,,,53.3,100.0,0.0,100.0,100.0
+Sentiment,v3,iteration2,15,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Extraction,v3,iteration2,15,15,53.3,,,0,,,,,,,,,6.7,100.0,0.0,100.0,100.0
+Product,v3,iteration2,15,15,100.0,,,0,,52.4,7.5,100.0,100.0,100.0,100.0,100.0,,,,,
+Sentiment,v2,variation:sarcasm,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v3,variation:sarcasm,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v2,variation:mixed,5,1,100.0,100.0,100.0,0,0.0,,,,,,,,,,,,
+Sentiment,v3,variation:mixed,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v2,variation:question,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v3,variation:question,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v2,variation:factual,5,1,100.0,100.0,100.0,0,0.0,,,,,,,,,,,,
+Sentiment,v3,variation:factual,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v2,variation:understated,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v3,variation:understated,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v2,variation:negation,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v3,variation:negation,5,2,60.0,60.0,100.0,0,60.0,,,,,,,,,,,,
+Sentiment,v2,variation:Spanish,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v3,variation:Spanish,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v2,variation:gratitude,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Sentiment,v3,variation:gratitude,5,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Product,v3,variation:rich facts,5,5,100.0,,,0,,50.6,4.6,100.0,100.0,100.0,100.0,100.0,,,,,
+Product,v3,variation:medium facts,5,5,100.0,,,0,,45.8,3.2,100.0,100.0,100.0,100.0,100.0,,,,,
+Product,v3,variation:sparse facts,5,5,80.0,,,0,,44.4,8.5,100.0,100.0,80.0,100.0,100.0,,,,,
+Extraction,v2,variation:late + defective + refund,5,4,60.0,,,0,,,,,,,,,40.0,100.0,0.0,80.0,100.0
+Extraction,v3,variation:late + defective + refund,5,5,80.0,,,0,,,,,,,,,20.0,100.0,0.0,93.3,80.0
+Extraction,v2,"variation:no order id, mixed",5,4,60.0,,,0,,,,,,,,,40.0,100.0,20.0,40.0,100.0
+Extraction,v3,"variation:no order id, mixed",5,5,100.0,,,0,,,,,,,,,20.0,100.0,0.0,100.0,100.0
+Extraction,v2,"variation:positive, no issues",5,2,60.0,,,0,,,,,,,,,60.0,100.0,0.0,66.7,100.0
+Extraction,v3,"variation:positive, no issues",5,5,100.0,,,0,,,,,,,,,20.0,100.0,0.0,100.0,100.0
+Extraction,v2,"variation:wrong item, date without year",5,3,60.0,,,0,,,,,,,,,40.0,100.0,20.0,100.0,100.0
+Extraction,v3,"variation:wrong item, date without year",5,5,100.0,,,0,,,,,,,,,20.0,100.0,0.0,100.0,100.0
+Sentiment,v3,final,15,1,100.0,100.0,100.0,0,100.0,,,,,,,,,,,,
+Product,v3,final,15,15,100.0,,,0,,52.0,8.0,100.0,100.0,100.0,100.0,100.0,,,,,
+Extraction,v3,final,15,15,53.3,,,0,,,,,,,,,6.7,100.0,0.0,100.0,100.0

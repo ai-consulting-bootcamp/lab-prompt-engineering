@@ -1,0 +1,10 @@
+Task,Version,Technique,Runs,Unique outputs,Consistency %,Meets 80% target
+Sentiment,v1,Zero-shot (client prompt),15,9,20.0,❌
+Sentiment,v2,Instructions + format + constraints,15,1,100.0,✅
+Sentiment,v3,Few-shot (4 examples) + definitions + system role,15,1,100.0,✅
+Product,v1,Zero-shot (client prompt),15,15,0.0,❌
+Product,v2,Instructions + format + constraints,15,15,80.0,✅
+Product,v3,Few-shot (2 examples) + facts-only rule + JSON,15,15,100.0,✅
+Extraction,v1,Zero-shot (client prompt),15,8,0.0,❌
+Extraction,v2,Instructions + format + constraints,15,3,73.3,❌
+Extraction,v3,Chain-of-Thought + worked example + enum schema,15,15,53.3,❌

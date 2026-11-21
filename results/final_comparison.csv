@@ -1,0 +1,14 @@
+version,task,consistency_%,format_adherence_%,unique_signatures,unique_raw_responses,avg_words,invented_numbers_%,correct_values_%,unverified_features_%
+v1,Sentiment Analysis,100.0,0.0,1,11,11,,,
+v2,Sentiment Analysis,100.0,100.0,1,1,1,,,
+v3,Sentiment Analysis,100.0,100.0,1,1,1,,,
+final,Sentiment Analysis,100.0,100.0,1,1,1,,,
+v1,Product Description,100.0,0.0,1,15,297,93.3,,100.0
+v2,Product Description,60.0,40.0,2,15,58,0.0,,66.7
+v3,Product Description,100.0,100.0,1,15,73,0.0,,0.0
+final,Product Description,100.0,100.0,1,15,72,0.0,,6.7
+v1,Data Extraction,100.0,0.0,1,13,24,,0.0,
+v2,Data Extraction,100.0,100.0,1,1,11,,100.0,
+v3,Data Extraction,100.0,13.3,1,15,70,,13.3,
+v3.1,Data Extraction,100.0,100.0,1,15,71,,100.0,
+final,Data Extraction,100.0,100.0,1,15,75,,100.0,

@@ -1,0 +1,226 @@
+{
+  "sentiment | v2 | The package arrived three days late and nobody answered my emails.": [
+    "negative",
+    "negative",
+    "negative",
+    "negative",
+    "negative"
+  ],
+  "sentiment | v3 | The package arrived three days late and nobody answered my emails.": [
+    "negative",
+    "negative",
+    "negative",
+    "negative",
+    "negative"
+  ],
+  "sentiment | v2 | Do you ship to Austria?": [
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral"
+  ],
+  "sentiment | v3 | Do you ship to Austria?": [
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral"
+  ],
+  "sentiment | v2 | The mouse works great, but the delivery took two weeks.": [
+    "neutral",
+    "mixed",
+    "mixed",
+    "neutral",
+    "neutral"
+  ],
+  "sentiment | v3 | The mouse works great, but the delivery took two weeks.": [
+    "negative",
+    "negative",
+    "negative",
+    "negative",
+    "negative"
+  ],
+  "sentiment | v2 | Oh great, another cable that stopped working after one day. Just perfect.": [
+    "negative",
+    "negative",
+    "negative",
+    "negative",
+    "negative"
+  ],
+  "sentiment | v3 | Oh great, another cable that stopped working after one day. Just perfect.": [
+    "negative",
+    "negative",
+    "negative",
+    "negative",
+    "negative"
+  ],
+  "sentiment | v2 | I received my order today.": [
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral"
+  ],
+  "sentiment | v3 | I received my order today.": [
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral"
+  ],
+  "sentiment | v2 | Thanks for the quick refund, really appreciated!": [
+    "positive",
+    "positive",
+    "positive",
+    "positive",
+    "positive"
+  ],
+  "sentiment | v3 | Thanks for the quick refund, really appreciated!": [
+    "positive",
+    "positive",
+    "positive",
+    "positive",
+    "positive"
+  ],
+  "sentiment | v2 | Das Produkt ist super, bin sehr zufrieden!": [
+    "positive",
+    "positive",
+    "positive",
+    "positive",
+    "positive"
+  ],
+  "sentiment | v3 | Das Produkt ist super, bin sehr zufrieden!": [
+    "positive",
+    "positive",
+    "positive",
+    "positive",
+    "positive"
+  ],
+  "sentiment | v2 | It's okay, does what it says.": [
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral"
+  ],
+  "sentiment | v3 | It's okay, does what it says.": [
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral"
+  ],
+  "product | v3 | noise-cancelling headphones": [
+    "Immerse yourself in a world of sound with these noise-cancelling headphones. They help you focus on your music, podcasts, or calls without the distraction of background noise, making them perfect for work or travel. Enjoy crisp audio quality while blocking out unwanted sounds, enhancing your listening experience whether you're at home or on the go. The comfortable fit ensures you can wear them for extended periods, making long listening sessions a pleasure. Elevate your audio experience for just $89.99.",
+    "Immerse yourself in a world of sound with these noise-cancelling headphones. They help you focus on your favorite music or podcasts without distractions, whether you're commuting, working, or relaxing at home. Enjoy a peaceful atmosphere as outside noise fades away, allowing you to truly unwind or concentrate on what matters. With comfortable wear for extended use, these headphones are perfect for any occasion. Elevate your audio experience today for just $89.99.",
+    "Immerse yourself in pure sound with these noise-cancelling headphones. They help you enjoy your favorite music, podcasts, or audiobooks without distractions from the outside world. Perfect for commuting, working, or relaxing, you can easily tune out the noise around you and focus on what you love. With a comfortable fit, they are designed for extended wear, so you can listen all day without discomfort. Elevate your audio experience for just $89.99.",
+    "Immerse yourself in a world of sound with these noise-cancelling headphones. They block out distractions, allowing you to focus on your music, podcasts, or calls without interruption. Whether you're commuting, working, or simply relaxing at home, you can enjoy crystal-clear audio that enhances your listening experience. The comfortable fit means you can wear them for hours, making them perfect for long trips or extended work sessions. Elevate your audio experience for just $89.99.",
+    "Immerse yourself in your favorite sounds with these noise-cancelling headphones. They help block out distractions, allowing you to focus on music, podcasts, or calls without interruption, whether you're at home or commuting. Enjoy crystal-clear audio that enhances your listening experience, making every moment more enjoyable. Their comfortable fit means you can wear them for hours, perfect for long work sessions or relaxing evenings. Elevate your audio experience for just $89.99."
+  ],
+  "product | v3 | ergonomic office chair": [
+    "Transform your work-from-home experience with this ergonomic office chair. It provides the support you need to stay comfortable during long hours of sitting, helping to reduce fatigue and improve your focus. With adjustable features, you can customize it to fit your unique body shape and preferences, promoting better posture and well-being. This chair is designed to enhance your productivity while seamlessly fitting into your workspace. Elevate your comfort and efficiency for just $249.00.",
+    "Transform your work environment with this ergonomic office chair. Designed to provide support during long hours, it helps reduce discomfort and fatigue, allowing you to focus on your tasks. The adjustable features ensure a personalized fit, promoting better posture and productivity throughout your day. Whether you're working from home or in an office, this chair enhances your workspace comfort. Invest in your well-being and elevate your work experience for just $249.00.",
+    "Transform your work-from-home experience with this ergonomic office chair. Designed to support your posture, it helps you stay comfortable during long hours of sitting, making your workdays more productive. You’ll appreciate how easy it is to adjust to your preferred position, allowing you to focus on your tasks without distractions. This chair is perfect for creating a dedicated workspace that fosters creativity and efficiency. Elevate your office setup today for just $249.00.",
+    "Transform your work environment with this ergonomic office chair. Designed to provide support for long hours of sitting, it helps improve your posture and reduces discomfort during your daily tasks. You’ll appreciate the increased productivity as you stay focused and comfortable throughout the day. This chair seamlessly fits into any home office or workspace, enhancing both function and style. Elevate your seating experience for just $249.00.",
+    "Transform your work experience with this ergonomic office chair. Designed to support you throughout your long hours at the desk, it promotes better posture and comfort, helping you stay focused and productive. The adjustable features allow you to customize your seating position, making it suitable for any body type. With its sturdy construction, this chair provides the durability you need for daily use in your home office or workplace. Invest in your comfort and productivity for just $249.00."
+  ],
+  "product | v3 | portable Bluetooth speaker with 12-hour battery life": [
+    "Elevate your listening experience with this portable Bluetooth speaker. Enjoy your favorite tunes anytime, anywhere, thanks to its impressive 12-hour battery life, making it perfect for outdoor gatherings or relaxing at home. You can easily connect it to your devices for seamless streaming, bringing your music to life wherever you go. Its compact design allows you to take it along on adventures or simply move it from room to room with ease. Enhance your sound enjoyment for just $59.99.",
+    "Take your music anywhere with this portable Bluetooth speaker that boasts an impressive 12-hour battery life. You can enjoy your favorite tunes during picnics, beach days, or backyard barbecues without worrying about recharging. Its lightweight design makes it easy to carry along on all your adventures, ensuring great sound is always within reach. With simple connectivity, you can easily pair it with your devices for a seamless listening experience. Elevate your outdoor gatherings and personal enjoyment for just $59.99.",
+    "Elevate your listening experience anywhere you go with this portable Bluetooth speaker. Enjoy your favorite tunes at the beach, park, or during a picnic, thanks to its impressive 12-hour battery life that keeps the music going all day long. Its lightweight design makes it easy to carry, so you can jam out wherever life takes you. With wireless connectivity, you can effortlessly pair your devices and enjoy high-quality sound without the clutter of cords. Bring the party with you for just $59.99.",
+    "Elevate your audio experience wherever you go with this portable Bluetooth speaker. With a remarkable 12-hour battery life, you can enjoy your favorite tunes all day long, whether at the beach, in the park, or at home. Its compact design makes it easy to carry, ensuring that great sound is always within reach for gatherings or solo listening sessions. Connect effortlessly to your devices and fill any space with rich, vibrant sound. Make every moment a musical one for just $59.99.",
+    "Elevate your music experience wherever you go with this portable Bluetooth speaker. Enjoy up to 12 hours of uninterrupted playback, making it perfect for outdoor gatherings, road trips, or just relaxing at home. Its compact design allows for easy transport, so you can take your favorite tunes with you anywhere. Whether you're hosting a party or having a quiet evening, it fills your space with rich sound and vibrant beats. Unleash the soundtrack of your life for just $59.99."
+  ],
+  "extraction | v2 | Order #00789 arrived on time and the box was in perfect condition. I placed it on June 2nd.": [
+    "{\n  \"order_id\": \"00789\",\n  \"order_date\": \"June 2nd\",\n  \"delivery_speed\": \"on_time\",\n  \"packaging_condition\": \"good\"\n}",
+    "{\n  \"order_id\": \"00789\",\n  \"order_date\": \"June 2nd\",\n  \"delivery_speed\": \"on_time\",\n  \"packaging_condition\": \"good\"\n}",
+    "{\n  \"order_id\": \"00789\",\n  \"order_date\": \"June 2nd\",\n  \"delivery_speed\": \"on_time\",\n  \"packaging_condition\": \"good\"\n}",
+    "{\n  \"order_id\": \"00789\",\n  \"order_date\": \"June 2nd\",\n  \"delivery_speed\": \"on_time\",\n  \"packaging_condition\": \"good\"\n}",
+    "{\n  \"order_id\": \"00789\",\n  \"order_date\": \"June 2nd\",\n  \"delivery_speed\": \"on_time\",\n  \"packaging_condition\": \"good\"\n}"
+  ],
+  "extraction | v3.1 | Order #00789 arrived on time and the box was in perfect condition. I placed it on June 2nd.": [
+    "Reasoning:\n1. Order ID: The feedback mentions \"Order #00789\", so the order ID is \"00789\".\n2. Order date: The feedback states \"I placed it on June 2nd\", which indicates the order date is \"June 2nd\".\n3. Delivery speed: The feedback states \"arrived on time\", so the delivery speed is \"on_time\".\n4. Packaging condition: The feedback mentions \"the box was in perfect condition\", which indicates the packaging condition is \"good\".\n\nJSON:\n{\"order_id\": \"00789\", \"order_date\": \"June 2nd\", \"delivery_speed\": \"on_time\", \"packaging_condition\": \"good\"}",
+    "Reasoning:\n1. Order ID: The feedback includes \"Order #00789\", so the Order ID is \"00789\" after removing the \"#\".\n2. Order date: The date mentioned is \"June 2nd\", which is directly quoted from the feedback.\n3. Delivery speed: The feedback states that the order \"arrived on time\", so the delivery speed is \"on_time\".\n4. Packaging condition: The feedback mentions the box was \"in perfect condition\", which indicates that the packaging condition is \"good\".\n\nJSON:\n{\"order_id\": \"00789\", \"order_date\": \"June 2nd\", \"delivery_speed\": \"on_time\", \"packaging_condition\": \"good\"}",
+    "Reasoning:\n1. Order ID: The order ID is mentioned as \"#00789\", so I remove the \"#\" and keep \"00789\".\n2. Order date: The order date is provided as \"June 2nd.\"\n3. Delivery speed: The feedback states that the order \"arrived on time,\" which maps to \"on_time.\"\n4. Packaging condition: The packaging is described as \"in perfect condition,\" which maps to \"good.\"\n\nJSON:\n{\"order_id\": \"00789\", \"order_date\": \"June 2nd\", \"delivery_speed\": \"on_time\", \"packaging_condition\": \"good\"}",
+    "Reasoning:\n1. Order ID: The feedback includes \"Order #00789\", so the Order ID is \"00789\".\n2. Order date: The feedback states \"I placed it on June 2nd\", which is the order date.\n3. Delivery speed: The feedback mentions \"arrived on time\", which maps to \"on_time\".\n4. Packaging condition: The feedback states \"the box was in perfect condition\", which can be considered as \"good\".\n\nJSON:\n{\"order_id\": \"00789\", \"order_date\": \"June 2nd\", \"delivery_speed\": \"on_time\", \"packaging_condition\": \"good\"}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"Order #00789\", so the order ID is \"00789\".\n2. Order date: The customer states, \"I placed it on June 2nd\", which provides the order date as \"June 2nd\".\n3. Delivery speed: The phrase \"arrived on time\" indicates that the delivery speed is \"on_time\".\n4. Packaging condition: The description \"the box was in perfect condition\" implies that the packaging condition is \"good\".\n\nJSON:\n{\"order_id\": \"00789\", \"order_date\": \"June 2nd\", \"delivery_speed\": \"on_time\", \"packaging_condition\": \"good\"}"
+  ],
+  "extraction | v2 | My package took almost three weeks to arrive. Order number 55821.": [
+    "{\n  \"order_id\": \"55821\",\n  \"order_date\": null,\n  \"delivery_speed\": \"slow\",\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": \"55821\",\n  \"order_date\": null,\n  \"delivery_speed\": \"slow\",\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": \"55821\",\n  \"order_date\": null,\n  \"delivery_speed\": \"slow\",\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": \"55821\",\n  \"order_date\": null,\n  \"delivery_speed\": \"slow\",\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": \"55821\",\n  \"order_date\": null,\n  \"delivery_speed\": \"slow\",\n  \"packaging_condition\": null\n}"
+  ],
+  "extraction | v3.1 | My package took almost three weeks to arrive. Order number 55821.": [
+    "Reasoning:\n1. Order ID: The feedback mentions \"Order number 55821\", so the order ID is \"55821\".\n2. Order date: There is no specific date mentioned in the feedback, so the order date is null.\n3. Delivery speed: The feedback states that the package took \"almost three weeks to arrive,\" which indicates a slow delivery speed.\n4. Packaging condition: There is no mention of the condition of the packaging, so the packaging condition is null.\n\nJSON:\n{\"order_id\": \"55821\", \"order_date\": null, \"delivery_speed\": \"slow\", \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"Order number 55821\", so the order ID is \"55821\".\n2. Order date: There is no mention of the order date in the feedback, so it is null.\n3. Delivery speed: The feedback states that the package \"took almost three weeks to arrive\", which indicates that the delivery speed is \"slow\".\n4. Packaging condition: There is no statement about the packaging condition, so it is null.\n\nJSON:\n{\"order_id\": \"55821\", \"order_date\": null, \"delivery_speed\": \"slow\", \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: The feedback contains the phrase \"Order number 55821\", so the order ID is \"55821\".\n2. Order date: There is no specific order date mentioned in the feedback, so it will be null.\n3. Delivery speed: The statement \"My package took almost three weeks to arrive\" indicates a slow delivery speed, so it is mapped to \"slow\".\n4. Packaging condition: There is no mention of the packaging condition in the feedback, so it will be null.\n\nJSON:\n{\"order_id\": \"55821\", \"order_date\": null, \"delivery_speed\": \"slow\", \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"Order number 55821,\" so the order ID is \"55821\".\n2. Order date: There is no specific date mentioned for when the order was placed, so this value is null.\n3. Delivery speed: The feedback states that the package \"took almost three weeks to arrive,\" which indicates a slow delivery speed.\n4. Packaging condition: There is no information provided regarding the condition of the packaging, so this value is null.\n\nJSON:\n{\"order_id\": \"55821\", \"order_date\": null, \"delivery_speed\": \"slow\", \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"Order number 55821,\" so we extract \"55821\" as the order ID.\n2. Order date: The feedback does not provide a specific date for when the order was placed, so we use null.\n3. Delivery speed: The feedback states that the package \"took almost three weeks to arrive,\" which indicates a slow delivery speed.\n4. Packaging condition: The feedback does not mention anything about the packaging condition, so we use null.\n\nJSON:\n{\"order_id\": \"55821\", \"order_date\": null, \"delivery_speed\": \"slow\", \"packaging_condition\": null}"
+  ],
+  "extraction | v2 | I'm really happy with the headphones, the sound is amazing!": [
+    "{\n  \"order_id\": null,\n  \"order_date\": null,\n  \"delivery_speed\": null,\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": null,\n  \"order_date\": null,\n  \"delivery_speed\": null,\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": null,\n  \"order_date\": null,\n  \"delivery_speed\": null,\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": null,\n  \"order_date\": null,\n  \"delivery_speed\": null,\n  \"packaging_condition\": null\n}",
+    "{\n  \"order_id\": null,\n  \"order_date\": null,\n  \"delivery_speed\": null,\n  \"packaging_condition\": null\n}"
+  ],
+  "extraction | v3.1 | I'm really happy with the headphones, the sound is amazing!": [
+    "Reasoning:\n1. Order ID: There is no order or item number mentioned in the feedback.\n2. Order date: The feedback does not provide a date when the order was placed.\n3. Delivery speed: There is no statement regarding delivery time in the feedback.\n4. Packaging condition: There is no mention of the packaging condition in the feedback.\n\nJSON:\n{\"order_id\": null, \"order_date\": null, \"delivery_speed\": null, \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: There is no order or item number mentioned in the feedback, so I will use null.\n2. Order date: The feedback does not mention a date for the order, so I will use null.\n3. Delivery speed: There is no statement about the delivery time, so I will use null.\n4. Packaging condition: There is no mention of the packaging condition, so I will use null.\n\nJSON:\n{\"order_id\": null, \"order_date\": null, \"delivery_speed\": null, \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: The feedback does not mention an order or item number, so it is null.\n2. Order date: The feedback does not provide any information about the date the order was placed, so it is null.\n3. Delivery speed: The feedback does not include any statements regarding delivery time, so it is null.\n4. Packaging condition: The feedback does not mention the packaging condition, so it is null.\n\nJSON:\n{\"order_id\": null, \"order_date\": null, \"delivery_speed\": null, \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: The feedback does not mention an order or item number, so it is null.\n2. Order date: The feedback does not provide a date for when the order was placed, so it is null.\n3. Delivery speed: There is no mention of delivery time in the feedback, so it is null.\n4. Packaging condition: The feedback does not comment on the packaging condition, so it is null.\n\nJSON:\n{\"order_id\": null, \"order_date\": null, \"delivery_speed\": null, \"packaging_condition\": null}",
+    "Reasoning:\n1. Order ID: The feedback does not mention an order or item number.\n2. Order date: The feedback does not provide a date for when the order was placed.\n3. Delivery speed: The feedback does not include any information about the delivery time.\n4. Packaging condition: The feedback does not mention anything about the packaging condition.\n\nJSON:\n{\"order_id\": null, \"order_date\": null, \"delivery_speed\": null, \"packaging_condition\": null}"
+  ],
+  "extraction | v2 | Bestellung #4471 vom 3. Mai kam schnell an, aber der Karton war eingedrückt.": [
+    "{\n  \"order_id\": \"4471\",\n  \"order_date\": \"3. Mai\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"4471\",\n  \"order_date\": \"3. Mai\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"4471\",\n  \"order_date\": \"3. Mai\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"4471\",\n  \"order_date\": \"3. Mai\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"4471\",\n  \"order_date\": \"3. Mai\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}"
+  ],
+  "extraction | v3.1 | Bestellung #4471 vom 3. Mai kam schnell an, aber der Karton war eingedrückt.": [
+    "Reasoning:\n1. Order ID: The feedback mentions \"Bestellung #4471\", so the order ID is \"4471\".\n2. Order date: The feedback states \"vom 3. Mai\", indicating that the order date is \"3. Mai\".\n3. Delivery speed: The phrase \"kam schnell an\" suggests that the delivery speed was fast, so it is mapped to \"fast\".\n4. Packaging condition: The statement \"der Karton war eingedrückt\" indicates that the packaging was damaged, so it is mapped to \"damaged\".\n\nJSON:\n{\"order_id\": \"4471\", \"order_date\": \"3. Mai\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The feedback contains \"Bestellung #4471\", so the order ID is \"4471\" after removing the \"#\".\n2. Order date: The date mentioned is \"3. Mai\", which is copied as written.\n3. Delivery speed: The statement \"kam schnell an\" indicates that the delivery was fast.\n4. Packaging condition: The phrase \"der Karton war eingedrückt\" suggests that the packaging was damaged.\n\nJSON:\n{\"order_id\": \"4471\", \"order_date\": \"3. Mai\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"Bestellung #4471\", so the order ID is \"4471\".\n2. Order date: The feedback states \"vom 3. Mai\", which translates to \"from May 3rd\", so the order date is \"3. Mai\".\n3. Delivery speed: The phrase \"kam schnell an\" indicates that the delivery was fast, so the delivery speed is \"fast\".\n4. Packaging condition: The feedback mentions \"der Karton war eingedrückt\", which indicates that the packaging was damaged, so the packaging condition is \"damaged\".\n\nJSON:\n{\"order_id\": \"4471\", \"order_date\": \"3. Mai\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"Bestellung #4471\", indicating the order ID is \"4471\".\n2. Order date: The feedback states \"vom 3. Mai\", which translates to \"from May 3\", indicating the order date is \"3. Mai\".\n3. Delivery speed: The phrase \"kam schnell an\" translates to \"arrived quickly\", which indicates that the delivery speed is \"fast\".\n4. Packaging condition: The feedback states \"aber der Karton war eingedrückt\", which means \"but the box was dented\", indicating that the packaging condition is \"damaged\".\n\nJSON:\n{\"order_id\": \"4471\", \"order_date\": \"3. Mai\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"Bestellung #4471\", extracting \"4471\" as the order ID.\n2. Order date: The date mentioned is \"3. Mai\", which is the order date.\n3. Delivery speed: The phrase \"kam schnell an\" indicates that the delivery was fast.\n4. Packaging condition: The feedback states \"der Karton war eingedrückt\", which suggests that the packaging was damaged.\n\nJSON:\n{\"order_id\": \"4471\", \"order_date\": \"3. Mai\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}"
+  ],
+  "extraction | v2 | Ordered on 2024-01-10 (order 98765). Delivery was quick, packaging slightly torn.": [
+    "{\n  \"order_id\": \"98765\",\n  \"order_date\": \"2024-01-10\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"98765\",\n  \"order_date\": \"2024-01-10\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"98765\",\n  \"order_date\": \"2024-01-10\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"98765\",\n  \"order_date\": \"2024-01-10\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}",
+    "{\n  \"order_id\": \"98765\",\n  \"order_date\": \"2024-01-10\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}"
+  ],
+  "extraction | v3.1 | Ordered on 2024-01-10 (order 98765). Delivery was quick, packaging slightly torn.": [
+    "Reasoning:\n1. Order ID: The feedback mentions \"order 98765\", so the order ID is \"98765\".\n2. Order date: The feedback states \"Ordered on 2024-01-10\", so the order date is \"2024-01-10\".\n3. Delivery speed: The feedback states \"Delivery was quick\", which maps to \"fast\".\n4. Packaging condition: The feedback mentions \"packaging slightly torn\", which maps to \"damaged\".\n\nJSON:\n{\"order_id\": \"98765\", \"order_date\": \"2024-01-10\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The order ID is mentioned as \"order 98765\", so I remove the \"#\" and keep \"98765\".\n2. Order date: The order date is stated as \"2024-01-10\", so I copy it as written.\n3. Delivery speed: The feedback mentions that the delivery was \"quick\", which maps to \"fast\".\n4. Packaging condition: The packaging is described as \"slightly torn\", which indicates it is \"damaged\".\n\nJSON:\n{\"order_id\": \"98765\", \"order_date\": \"2024-01-10\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The feedback includes \"order 98765\", so the Order ID is \"98765\".\n2. Order date: The feedback states \"Ordered on 2024-01-10\", so the Order date is \"2024-01-10\".\n3. Delivery speed: The feedback mentions \"Delivery was quick\", which maps to \"fast\".\n4. Packaging condition: The feedback states \"packaging slightly torn\", which indicates that the packaging was \"damaged\".\n\nJSON:\n{\"order_id\": \"98765\", \"order_date\": \"2024-01-10\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The feedback mentions \"order 98765\", so the Order ID is \"98765\" after removing the \"#\".\n2. Order date: The feedback states \"Ordered on 2024-01-10\", which is the order date.\n3. Delivery speed: The statement \"Delivery was quick\" indicates that the delivery speed was fast.\n4. Packaging condition: The phrase \"packaging slightly torn\" suggests that the packaging condition is damaged.\n\nJSON:\n{\"order_id\": \"98765\", \"order_date\": \"2024-01-10\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}",
+    "Reasoning:\n1. Order ID: The order number \"98765\" is mentioned in the feedback.\n2. Order date: The date \"2024-01-10\" is provided in the feedback.\n3. Delivery speed: The feedback states that the delivery was \"quick,\" which indicates a fast delivery speed.\n4. Packaging condition: The feedback mentions that the packaging was \"slightly torn,\" which indicates it was damaged.\n\nJSON:\n{\"order_id\": \"98765\", \"order_date\": \"2024-01-10\", \"delivery_speed\": \"fast\", \"packaging_condition\": \"damaged\"}"
+  ],
+  "product | v3.2 | noise-cancelling headphones": [
+    "Immerse yourself in a world of sound with these noise-cancelling headphones. Whether you're commuting, working, or just relaxing at home, they help block out distractions, allowing you to focus on your favorite music or podcasts. Enjoy crystal-clear audio that enhances your listening experience, making every moment more enjoyable. Their comfortable design means you can wear them for hours without discomfort, making them perfect for long listening sessions. Elevate your audio experience for just $89.99.",
+    "Immerse yourself in your favorite sounds with these noise-cancelling headphones. Designed to help you focus, they block out distractions, making them perfect for work, travel, or relaxation. Enjoy your music or podcasts without interruptions and experience richer audio quality that enhances every note. Their comfortable fit means you can wear them for hours without discomfort, whether you’re at home or on the move. Elevate your listening experience today for just $89.99.",
+    "Immerse yourself in sound without distractions with these noise-cancelling headphones. Whether you're working, commuting, or just relaxing, they help block out unwanted noise so you can focus on what matters. Enjoy your favorite music or podcasts with crystal-clear audio that enhances your listening experience. Lightweight and comfortable, they are perfect for extended use, making every moment more enjoyable. Elevate your audio experience today for just $89.99.",
+    "Immerse yourself in a world of sound with these noise-cancelling headphones. Designed to block out distractions, they allow you to focus on your music, podcasts, or calls, whether you're commuting, working, or relaxing at home. With their comfortable fit, you can wear them for hours without discomfort, making them perfect for long listening sessions. Their user-friendly controls let you manage your audio experience effortlessly, so you can enjoy your favorite content with ease. Elevate your listening experience today for just $89.99.",
+    "Immerse yourself in your favorite music or podcasts with these noise-cancelling headphones. Designed to block out distractions, they create a peaceful listening environment whether you're commuting, working, or relaxing at home. The comfortable fit allows you to enjoy long listening sessions without discomfort, making them perfect for travel or extended use. With intuitive controls, you can easily manage your audio experience without missing a beat. Elevate your audio enjoyment for just $89.99."
+  ],
+  "product | v3.2 | ergonomic office chair": [
+    "Transform your workspace with this ergonomic office chair that prioritizes your comfort. Enjoy long hours of productivity without the strain, as this chair supports your posture and helps you stay focused. Its thoughtful design makes it easy to find your perfect seating position, so you can work efficiently throughout the day. Ideal for home offices or corporate settings, it enhances your work environment and promotes a better working experience. Elevate your office setup for just $249.00.",
+    "Transform your workspace with this ergonomic office chair designed for your comfort. You can enjoy long hours of productivity without discomfort, making your work or study sessions more enjoyable. The chair’s design supports your posture, allowing you to focus better on your tasks. With its adjustable features, you can find the perfect fit to suit your needs, enhancing your daily routine. Invest in your comfort and productivity for just $249.00.",
+    "Transform your work environment with this ergonomic office chair. Designed to support you during long hours of sitting, it enhances your comfort and productivity at the same time. The thoughtful design helps you maintain good posture, reducing discomfort while you tackle your daily tasks. You'll appreciate the added support that allows you to focus fully on your work without distractions. Elevate your office experience for just $249.00.",
+    "Transform your work experience with this ergonomic office chair. Designed to provide support during long hours at your desk, it helps you maintain better posture and comfort while you focus on your tasks. The stylish design complements any workspace, making it a great addition to your home office or corporate setting. You’ll appreciate how it enhances your productivity by allowing you to work comfortably throughout the day. Elevate your seating experience for just $249.00.",
+    "Transform your workday experience with this ergonomic office chair. Designed to provide support during those long hours at your desk, it helps you maintain comfort while you focus on your tasks. Its adjustable features allow you to find the perfect fit for your body, enhancing your productivity and overall well-being. The stylish design complements any office environment, making it a great addition to your workspace. Invest in your comfort and efficiency for just $249.00."
+  ],
+  "product | v3.2 | portable Bluetooth speaker with 12-hour battery life": [
+    "Elevate your listening experience with this portable Bluetooth speaker. Enjoy your favorite tunes wherever you go, thanks to its impressive 12-hour battery life that keeps the music playing throughout the day. Perfect for picnics, beach days, or just relaxing at home, this speaker lets you bring the party with you. Its compact design ensures you can easily take it along without sacrificing sound quality. Grab yours today and enjoy the beats for just $59.99.",
+    "Elevate your listening experience with this portable Bluetooth speaker. Enjoy your favorite tunes wherever you go, thanks to its impressive 12-hour battery life that keeps the music playing all day. Perfect for backyard gatherings, picnics, or just relaxing at home, this speaker fills any space with vibrant sound. Its compact design makes it easy to take along on all your adventures, ensuring you never miss a beat. Bring the party with you for just $59.99.",
+    "Elevate your listening experience with this portable Bluetooth speaker. Enjoy your favorite tunes wherever you go, thanks to its impressive 12-hour battery life that keeps the music playing all day long. Whether you're at a picnic, beach day, or just relaxing in your backyard, this speaker is the perfect companion for any occasion. Its compact design makes it easy to carry, ensuring you never miss a beat. Bring joy to your gatherings and personal time for just $59.99.",
+    "Elevate your listening experience with this portable Bluetooth speaker that delivers impressive sound wherever you go. With a 12-hour battery life, you can enjoy your favorite tunes all day long, whether you're at a picnic, beach, or just relaxing at home. Its compact design makes it easy to carry, ensuring you can bring the party with you anytime. You’ll appreciate the convenience of wireless connectivity, allowing you to connect effortlessly to your devices. Enjoy music on your terms for just $59.99.",
+    "Elevate your listening experience with this portable Bluetooth speaker. Enjoy your favorite music anywhere, whether you're at home, in the park, or on a weekend getaway. With its impressive 12-hour battery life, you can keep the tunes going all day long without worrying about recharging. Its compact design makes it easy to carry, allowing you to bring the party with you wherever you go. Get ready to enjoy your soundtrack on the move for just $59.99."
+  ]
+}

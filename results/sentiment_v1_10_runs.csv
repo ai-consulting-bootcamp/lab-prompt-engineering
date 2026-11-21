@@ -1,0 +1,11 @@
+label,run,response,error
+sentiment_v1,1,This customer message can be classified as positive feedback or a compliment.,
+sentiment_v1,2,This customer message can be classified as positive feedback or a compliment.,
+sentiment_v1,3,This customer message can be classified as positive feedback or a customer compliment.,
+sentiment_v1,4,This customer message can be classified as positive feedback or a customer compliment.,
+sentiment_v1,5,This customer message can be classified as positive feedback or a compliment.,
+sentiment_v1,6,This customer message can be classified as positive feedback.,
+sentiment_v1,7,This customer message can be classified as positive feedback or a customer satisfaction statement.,
+sentiment_v1,8,This customer message can be classified as positive feedback or a positive review.,
+sentiment_v1,9,The customer message can be classified as positive feedback or a customer compliment.,
+sentiment_v1,10,This customer message can be classified as positive feedback.,

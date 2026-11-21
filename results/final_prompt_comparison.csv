@@ -1,0 +1,10 @@
+prompt,version,runs,success_rate,consistency_percent,unique_outputs,failure_notes
+extraction,v1,15,100.0,100.0,11,Some output was not valid JSON
+extraction,v2,15,100.0,100.0,1,All output parsed as JSON
+extraction,v3,15,100.0,100.0,1,All output parsed as JSON
+product,v1,15,100.0,100.0,15,"Format signatures compare structure, not exact marketing copy"
+product,v2,15,100.0,100.0,15,"Format signatures compare structure, not exact marketing copy"
+product,v3,15,100.0,86.7,12,"Format signatures compare structure, not exact marketing copy"
+sentiment,v1,15,100.0,93.3,12,Invalid label or extra text
+sentiment,v2,15,100.0,100.0,1,Labels stayed in allowed set
+sentiment,v3,15,100.0,100.0,1,Labels stayed in allowed set

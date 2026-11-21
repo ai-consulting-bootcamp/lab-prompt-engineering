@@ -1,0 +1,49 @@
+label,run,response,error
+extraction_v1,1,"Here are the extracted details from the customer feedback:
+
+- Order Number: #12345
+- Order Date: March 15th
+- Delivery: Fast
+- Packaging Condition: Damaged",
+extraction_v1,2,"- Item Number: #12345
+- Order Date: March 15th
+- Delivery: Fast
+- Packaging Condition: Damaged",
+extraction_v1,3,"Here is the extracted information from the customer feedback:
+
+- Order Number: #12345
+- Order Date: March 15th
+- Delivery Feedback: Fast
+- Packaging Condition: Damaged",
+extraction_v1,4,"Here is the extracted information from the customer feedback:
+
+- Item Number: #12345
+- Order Date: March 15th
+- Delivery: Fast
+- Packaging Condition: Damaged",
+extraction_v1,5,"Here is the extracted information from the customer feedback:
+
+- Order Number: #12345
+- Order Date: March 15th
+- Delivery Speed: Fast
+- Packaging Condition: Damaged",
+extraction_v1,6,"- Order Number: #12345
+- Order Date: March 15th
+- Delivery Speed: Fast
+- Issue: Damaged Packaging",
+extraction_v1,7,"- Order Number: #12345
+- Order Date: March 15th
+- Delivery: Fast
+- Issue: Damaged packaging",
+extraction_v1,8,"- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Issue**: Damaged packaging",
+extraction_v1,9,"- Order Number: #12345
+- Order Date: March 15th
+- Delivery: Fast
+- Issue: Damaged packaging",
+extraction_v1,10,"- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery**: Fast
+- **Issue**: Damaged packaging",

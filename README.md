@@ -1,23 +1,54 @@
 # Prompt Engineering Lab
 
-**Track:** Module 2 — Prompt engineering · **When:** Week 2, Day 5 · **Status:** Required
+This lab evaluates and improves prompts for three customer-service tasks:
 
-This repository contains everything you need for this lab.
+1. Sentiment classification
+2. Product description generation
+3. Structured data extraction
+
+## Setup
+
+From this folder, create and activate a virtual environment, then install the dependencies:
+
+```bash
+python -m venv .venv
+```
+
+Windows PowerShell:
+
+```powershell
+.venv\Scripts\Activate.ps1
+pip install openai python-dotenv jupyter
+```
+
+macOS/Linux:
+
+```bash
+source .venv/bin/activate
+pip install openai python-dotenv jupyter
+```
+
+Create a local `.env` file containing your own API key:
+
+```text
+OPENAI_API_KEY=your_api_key_here
+```
+
+Do not commit `.env` or your API key.
+
+## Run the notebook
+
+Start Jupyter from this folder:
+
+```bash
+jupyter notebook prompt_engineering_lab.ipynb
+```
+
+Open the notebook in the browser and run the cells in order. Cells that call the OpenAI API may use billable API requests.
 
 ## Files
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
-
-## How to complete this lab
-
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
-
-## Submission hygiene
-
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+- `prompt_engineering_lab.ipynb` — complete lab notebook with prompt versions, repeated tests, failure analysis, variations, and final comparison.
+- `lab_proof.md` — detailed evidence and reviewer-oriented failure analysis.
+- `lab_summary.md` — required one-paragraph summary of the experiment and lessons learned.
+- `.gitignore` — prevents local secret files such as `.env` from being committed.

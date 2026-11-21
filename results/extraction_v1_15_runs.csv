@@ -1,0 +1,67 @@
+label,run,response,error
+extraction_v1,1,"- Item Number: #12345
+- Order Date: March 15th
+- Delivery Speed: Fast
+- Issue: Damaged packaging",
+extraction_v1,2,"Here is the extracted information from the customer feedback:
+
+- Order Number: #12345
+- Order Date: March 15th
+- Delivery: Fast
+- Packaging Condition: Damaged",
+extraction_v1,3,"Here is the extracted information from the customer feedback:
+
+- Order number: #12345
+- Order date: March 15th
+- Delivery: Fast
+- Packaging condition: Damaged",
+extraction_v1,4,"- **Order Number:** #12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Packaging Condition:** Damaged",
+extraction_v1,5,"- **Order Number:** #12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Packaging Condition:** Damaged",
+extraction_v1,6,"- Order number: #12345
+- Order date: March 15th
+- Delivery: Fast
+- Issue: Damaged packaging",
+extraction_v1,7,"Here is the extracted information from the customer feedback:
+
+- Order Number: #12345
+- Order Date: March 15th
+- Delivery Speed: Fast
+- Packaging Condition: Damaged",
+extraction_v1,8,"- **Order Number:** 12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Issue:** Damaged packaging",
+extraction_v1,9,"- Item ordered: #12345
+- Order date: March 15th
+- Delivery: Fast
+- Issue: Damaged packaging",
+extraction_v1,10,"- Order Number: #12345
+- Order Date: March 15th
+- Delivery: Fast
+- Issue: Damaged packaging",
+extraction_v1,11,"- Order Number: #12345  
+- Order Date: March 15th  
+- Delivery Speed: Fast  
+- Packaging Condition: Damaged",
+extraction_v1,12,"- **Order Number:** #12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Issue:** Damaged packaging",
+extraction_v1,13,"- **Item Ordered**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Packaging Condition**: Damaged",
+extraction_v1,14,"- Order Number: #12345
+- Order Date: March 15th
+- Delivery Speed: Fast
+- Packaging Condition: Damaged",
+extraction_v1,15,"- **Item Number:** 12345
+- **Order Date:** March 15th
+- **Delivery Feedback:** Fast
+- **Packaging Feedback:** Damaged",

@@ -1,0 +1,34 @@
+task,input,output
+sentiment,The replacement arrived today and works perfectly.,positive
+sentiment,I waited 40 minutes for support and still have the same problem.,negative
+sentiment,Can you confirm whether my warranty expires next month?,neutral
+product,"{""product"": ""USB-C laptop stand"", ""price"": ""$39.99""}","Title: USB-C Laptop Stand - $39.99  
+Description: Elevate your laptop experience with a sleek USB-C laptop stand designed to improve ergonomics and enhance airflow, making work sessions more comfortable and efficient.  
+Key benefits:  
+- Promotes better posture for long hours of use  
+- Keeps your laptop cool for optimal performance  
+- Compact design for easy portability and storage  
+Call to action: Upgrade your workspace today!"
+product,"{""product"": ""Noise-reducing office headset"", ""price"": ""$59.99""}","Title: Noise-Reducing Office Headset - $59.99  
+Description: Enhance your focus and productivity with our noise-reducing office headset, designed to block out distractions and immerse you in your work.  
+Key benefits:  
+- Superior sound quality for clear communication  
+- Comfortable fit for all-day wear  
+- Ideal for open office environments or remote work  
+Call to action: Elevate your work experience today!"
+extraction,Order #ZX-991 arrived on April 2. Delivery was delayed and the outer box was torn.,"{
+  ""item_number"": ""ZX-991"",
+  ""order_date"": ""April 2"",
+  ""delivery_sentiment"": ""negative"",
+  ""packaging_issue"": true,
+  ""issue_type"": ""torn outer box"",
+  ""summary"": ""The order arrived with a torn outer box and was delayed.""
+}"
+extraction,I bought item 777 last week. Shipping was quick and everything was packed well.,"{
+  ""item_number"": ""777"",
+  ""order_date"": ""last week"",
+  ""delivery_sentiment"": ""positive"",
+  ""packaging_issue"": false,
+  ""issue_type"": null,
+  ""summary"": ""Shipping was quick and everything was packed well.""
+}"

@@ -1,0 +1,4 @@
+label,task_type,runs,success_rate,consistency_percent,unique_outputs,failure_notes
+sentiment_v1,sentiment,5,100.0,80.0,5,Invalid label or extra text
+product_v1,product,5,100.0,100.0,5,"Format signatures compare structure, not exact marketing copy"
+extraction_v1,extraction,5,100.0,100.0,5,Some output was not valid JSON

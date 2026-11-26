@@ -1,0 +1,13 @@
+test set,input,expected,v2 consistency_%,v3 consistency_%,v2 accuracy_%,v3 accuracy_%,v2 valid_%,v3 valid_%,v2 answers,v3 answers
+original,I love this product! It's exactly what I needed.,positive,100,100,100,100,100,100,{'positive': np.int64(15)},{'positive': np.int64(15)}
+original,The keyboard stopped working after a week. Very disappo,negative,100,100,100,100,100,100,{'negative': np.int64(15)},{'negative': np.int64(15)}
+original,"Great sound quality, but the headphones are uncomfortab",neutral,100,100,100,100,100,100,{'neutral': np.int64(15)},{'neutral': np.int64(15)}
+original,"Oh wonderful, my new charger already broke. Just what I",negative,100,100,100,100,100,100,{'negative': np.int64(15)},{'negative': np.int64(15)}
+original,I received the webcam today. Haven't tried it yet.,neutral,100,100,100,100,100,100,{'neutral': np.int64(15)},{'neutral': np.int64(15)}
+hard,ok,neutral,100,100,100,100,100,100,{'neutral': np.int64(15)},{'neutral': np.int64(15)}
+hard,Works perfectly 👍,positive,100,100,100,100,100,100,{'positive': np.int64(15)},{'positive': np.int64(15)}
+hard,How do I return this? It doesn't fit my laptop.,negative,100,100,0,100,100,100,{'neutral': np.int64(15)},{'negative': np.int64(15)}
+hard,"Love it, although the cable is a bit short.",neutral,100,100,100,100,100,100,{'neutral': np.int64(15)},{'neutral': np.int64(15)}
+hard,Thanks for nothing.,negative,100,100,100,100,100,100,{'negative': np.int64(15)},{'negative': np.int64(15)}
+hard,El teclado no funciona desde que llegó.,negative,100,100,100,100,100,100,{'negative': np.int64(15)},{'negative': np.int64(15)}
+hard,Is this mouse compatible with a MacBook Air?,neutral,100,100,100,100,100,100,{'neutral': np.int64(15)},{'neutral': np.int64(15)}

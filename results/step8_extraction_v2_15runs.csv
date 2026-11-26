@@ -1,0 +1,712 @@
+input,run,output
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,1,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""damaged packaging""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,2,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,3,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,4,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,5,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""damaged packaging""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,6,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,7,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""damaged packaging""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,8,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,9,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,10,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,11,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,12,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,13,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,14,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,15,"{
+  ""order_number"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": ""fast"",
+  ""packaging_feedback"": ""damaged"",
+  ""issues"": [""packaging damaged""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,1,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,2,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,3,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,4,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,5,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,6,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,7,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,8,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,9,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,10,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,11,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,12,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,13,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,14,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""one of the screws was missing""],
+  ""customer_request"": null
+}"
+My laptop stand arrived last Tuesday and one of the screws was missing.,15,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": ""last Tuesday"",
+  ""products"": [{""name"": ""laptop stand"", ""feedback"": null}],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""screw missing""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",1,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {""name"": ""keyboard"", ""feedback"": ""great""},
+    {""name"": ""mouse"", ""feedback"": ""doesn't connect""}
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",2,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",3,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",4,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",5,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",6,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {""name"": ""keyboard"", ""feedback"": ""great""},
+    {""name"": ""mouse"", ""feedback"": ""doesn't connect""}
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",7,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {""name"": ""keyboard"", ""feedback"": ""great""},
+    {""name"": ""mouse"", ""feedback"": ""doesn't connect""}
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",8,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [
+    ""mouse doesn't connect""
+  ],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",9,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [
+    ""mouse doesn't connect""
+  ],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",10,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",11,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",12,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {""name"": ""keyboard"", ""feedback"": ""great""},
+    {""name"": ""mouse"", ""feedback"": ""doesn't connect""}
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",13,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",14,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {
+      ""name"": ""keyboard"",
+      ""feedback"": ""great""
+    },
+    {
+      ""name"": ""mouse"",
+      ""feedback"": ""doesn't connect""
+    }
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [
+    ""mouse doesn't connect""
+  ],
+  ""customer_request"": null
+}"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",15,"{
+  ""order_number"": ""88231"",
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [
+    {""name"": ""keyboard"", ""feedback"": ""great""},
+    {""name"": ""mouse"", ""feedback"": ""doesn't connect""}
+  ],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""mouse doesn't connect""],
+  ""customer_request"": null
+}"
+Still waiting for my refund. Nobody answers my emails!!,1,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,2,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""waiting for refund"", ""no response to emails""],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,3,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""no response to emails""],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,4,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,5,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,6,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,7,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""no response to emails""],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,8,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,9,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""waiting for refund"", ""no response to emails""],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,10,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""waiting for refund"", ""nobody answers emails""],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,11,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""no response to emails""],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,12,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [""no response to emails""],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,13,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,14,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"
+Still waiting for my refund. Nobody answers my emails!!,15,"{
+  ""order_number"": null,
+  ""order_date"": null,
+  ""delivery_date"": null,
+  ""products"": [],
+  ""delivery_feedback"": null,
+  ""packaging_feedback"": null,
+  ""issues"": [],
+  ""customer_request"": ""refund""
+}"

@@ -1,0 +1,5 @@
+input,v1 consistency_% (field names),v1 valid JSON_%,v2 valid JSON_%,v2 exact schema_%,v2 consistency_% (key facts),v2 consistency_% (full answer),v2 accuracy_% (key facts),v2 unique answers
+I ordered item #12345 on March 15th. The delivery ,60,0,100,100,100,67,100,3
+My laptop stand arrived last Tuesday and one of th,40,0,100,100,100,93,100,2
+Order #88231: I bought a keyboard and a mouse. The,53,0,100,100,100,100,100,3
+Still waiting for my refund. Nobody answers my ema,33,0,100,100,100,53,100,4

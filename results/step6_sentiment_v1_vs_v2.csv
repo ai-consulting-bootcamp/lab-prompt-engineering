@@ -1,0 +1,6 @@
+input,expected,v1 consistency_%,v2 consistency_%,v1 unique answers,v2 unique answers,v2 answers,v1 valid_%,v2 valid_%,v2 accuracy_%
+I love this product! It's exactly what I needed.,positive,53,100,9,1,{'positive': np.int64(15)},0,100,100
+The keyboard stopped working after a week. Very disappointed,negative,67,100,9,1,{'negative': np.int64(15)},0,100,100
+"Great sound quality, but the headphones are uncomfortable af",neutral,93,100,13,1,{'neutral': np.int64(15)},0,100,100
+"Oh wonderful, my new charger already broke. Just what I want",negative,40,100,12,1,{'negative': np.int64(15)},0,100,100
+I received the webcam today. Haven't tried it yet.,neutral,47,100,13,1,{'neutral': np.int64(15)},0,100,100

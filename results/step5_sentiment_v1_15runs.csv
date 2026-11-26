@@ -1,0 +1,76 @@
+input,run,output
+I love this product! It's exactly what I needed.,1,The customer message can be classified as **Positive Feedback**.
+I love this product! It's exactly what I needed.,2,"The customer message can be classified as ""Positive Feedback"" or ""Customer Satisfaction."""
+I love this product! It's exactly what I needed.,3,"The customer message can be classified as ""Positive Feedback"" or ""Satisfaction."""
+I love this product! It's exactly what I needed.,4,"This customer message can be classified as ""Positive Feedback"" or ""Customer Satisfaction."""
+I love this product! It's exactly what I needed.,5,This customer message can be classified as **positive feedback** or **satisfaction**.
+I love this product! It's exactly what I needed.,6,The customer message can be classified as **Positive Feedback** or **Customer Satisfaction**.
+I love this product! It's exactly what I needed.,7,"This customer message can be classified as ""Positive Feedback"" or ""Customer Satisfaction."""
+I love this product! It's exactly what I needed.,8,This customer message can be classified as **Positive Feedback** or **Customer Satisfaction**.
+I love this product! It's exactly what I needed.,9,The customer message can be classified as **Positive Feedback** or **Satisfaction**.
+I love this product! It's exactly what I needed.,10,The customer message can be classified as **Positive Feedback** or **Customer Satisfaction**.
+I love this product! It's exactly what I needed.,11,The customer message can be classified as **Positive Feedback**.
+I love this product! It's exactly what I needed.,12,The customer message can be classified as **Positive Feedback** or **Satisfaction**.
+I love this product! It's exactly what I needed.,13,This customer message can be classified as **positive feedback** or **customer satisfaction**.
+I love this product! It's exactly what I needed.,14,"The customer message can be classified as ""Positive Feedback"" or ""Customer Satisfaction."""
+I love this product! It's exactly what I needed.,15,"The customer message can be classified as ""Positive Feedback"" or ""Satisfaction."""
+The keyboard stopped working after a week. Very disappointed.,1,This customer message can be classified as a complaint. The customer is expressing dissatisfaction with a product that has malfunctioned shortly after purchase.
+The keyboard stopped working after a week. Very disappointed.,2,The customer message can be classified as a complaint.
+The keyboard stopped working after a week. Very disappointed.,3,This customer message can be classified as a complaint. The customer is expressing dissatisfaction with a product (the keyboard) that malfunctioned shortly after purchase.
+The keyboard stopped working after a week. Very disappointed.,4,The customer message can be classified as a **complaint**.
+The keyboard stopped working after a week. Very disappointed.,5,The customer message can be classified as a **product complaint** or **customer dissatisfaction**.
+The keyboard stopped working after a week. Very disappointed.,6,"This customer message can be classified as a ""Product Issue/Defect Complaint."" The customer is expressing dissatisfaction with the functionality of the keyboard, indicating it is not working as expected after a short period of use."
+The keyboard stopped working after a week. Very disappointed.,7,This customer message can be classified as a complaint. The customer expresses dissatisfaction with the product's performance and conveys disappointment regarding its quality.
+The keyboard stopped working after a week. Very disappointed.,8,The customer message can be classified as a **product complaint** or **customer dissatisfaction**.
+The keyboard stopped working after a week. Very disappointed.,9,The customer message can be classified as a **complaint**.
+The keyboard stopped working after a week. Very disappointed.,10,The customer message can be classified as a complaint.
+The keyboard stopped working after a week. Very disappointed.,11,The customer message can be classified as a **product complaint** or **customer dissatisfaction**.
+The keyboard stopped working after a week. Very disappointed.,12,The customer message can be classified as a **complaint**.
+The keyboard stopped working after a week. Very disappointed.,13,The customer message can be classified as a complaint.
+The keyboard stopped working after a week. Very disappointed.,14,This customer message can be classified as a complaint. The customer expresses dissatisfaction with the product (the keyboard) due to its failure to work properly after a short period of use.
+The keyboard stopped working after a week. Very disappointed.,15,This customer message can be classified as a **product complaint** or **negative feedback**. It expresses dissatisfaction with a product (the keyboard) due to a malfunction that occurred shortly after purchase.
+"Great sound quality, but the headphones are uncomfortable after an hour.",1,The customer message can be classified as **mixed feedback**. It includes a positive aspect (great sound quality) and a negative aspect (discomfort after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",2,The customer message can be classified as **mixed feedback**. It expresses a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",3,The customer message can be classified as **mixed feedback**. It contains both a positive comment about the sound quality and a negative comment regarding comfort.
+"Great sound quality, but the headphones are uncomfortable after an hour.",4,The customer message can be classified as **Mixed Feedback**. It contains both a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",5,The customer message can be classified as **mixed feedback**. It highlights a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",6,"The customer message can be classified as ""Mixed Feedback."" The customer expresses a positive aspect (great sound quality) but also shares a negative aspect (uncomfortable after an hour)."
+"Great sound quality, but the headphones are uncomfortable after an hour.",7,"The customer message can be classified as a **mixed review**. It contains both positive feedback (""Great sound quality"") and negative feedback (""the headphones are uncomfortable after an hour"")."
+"Great sound quality, but the headphones are uncomfortable after an hour.",8,The customer message can be classified as **mixed feedback**. It highlights a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",9,The customer message can be classified as **mixed feedback**. It contains both a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",10,The customer message can be classified as **mixed feedback**. It includes both a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",11,The customer message can be classified as **mixed feedback**. It highlights a positive aspect (great sound quality) and a negative aspect (discomfort after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",12,The customer message can be classified as **mixed feedback**. It contains both a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",13,This customer message can be classified as **mixed feedback**. It contains both a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",14,The customer message can be classified as **mixed feedback**. It contains a positive aspect (great sound quality) and a negative aspect (uncomfortable after an hour).
+"Great sound quality, but the headphones are uncomfortable after an hour.",15,The customer message can be classified as **mixed feedback**. It includes a positive comment about sound quality and a negative comment regarding comfort.
+"Oh wonderful, my new charger already broke. Just what I wanted.",1,"The customer message can be classified as ""frustration"" or ""dissatisfaction."" The tone indicates disappointment and sarcasm regarding the product quality."
+"Oh wonderful, my new charger already broke. Just what I wanted.",2,"The customer message can be classified as a complaint or negative feedback. The tone is sarcastic, indicating dissatisfaction with the product quality."
+"Oh wonderful, my new charger already broke. Just what I wanted.",3,"This customer message can be classified as a complaint or negative feedback. The tone is sarcastic, indicating frustration or dissatisfaction with the product."
+"Oh wonderful, my new charger already broke. Just what I wanted.",4,"The customer message can be classified as a complaint or negative feedback. The tone is sarcastic, indicating frustration or disappointment with the product quality."
+"Oh wonderful, my new charger already broke. Just what I wanted.",5,"The customer message can be classified as a complaint. The tone is sarcastic, indicating dissatisfaction with the product's quality."
+"Oh wonderful, my new charger already broke. Just what I wanted.",6,"The customer message can be classified as a complaint or negative feedback. The tone is sarcastic, indicating frustration or disappointment with the product quality."
+"Oh wonderful, my new charger already broke. Just what I wanted.",7,"The customer message can be classified as a complaint or negative feedback. The tone is sarcastic, indicating frustration or disappointment with the product quality."
+"Oh wonderful, my new charger already broke. Just what I wanted.",8,The customer message can be classified as **frustrated/complaint**. The tone suggests dissatisfaction with the product and implies sarcasm regarding the situation.
+"Oh wonderful, my new charger already broke. Just what I wanted.",9,The customer message can be classified as **frustration/complaint**. The tone suggests dissatisfaction with the product quality and implies a sarcastic remark about the situation.
+"Oh wonderful, my new charger already broke. Just what I wanted.",10,"This customer message can be classified as a complaint or negative feedback. The tone is sarcastic, indicating frustration or dissatisfaction with the product."
+"Oh wonderful, my new charger already broke. Just what I wanted.",11,The customer message can be classified as a **frustrated complaint**. The tone indicates dissatisfaction with the product quality and suggests disappointment with the situation.
+"Oh wonderful, my new charger already broke. Just what I wanted.",12,This customer message can be classified as **frustration** or **disappointment**. The tone suggests sarcasm and dissatisfaction with the product quality.
+"Oh wonderful, my new charger already broke. Just what I wanted.",13,The customer message can be classified as **frustration/complaint**. The tone is sarcastic and indicates dissatisfaction with the product.
+"Oh wonderful, my new charger already broke. Just what I wanted.",14,"This customer message can be classified as **frustration/complaint**. The tone is sarcastic, indicating dissatisfaction with the product."
+"Oh wonderful, my new charger already broke. Just what I wanted.",15,"The customer message can be classified as negative feedback or a complaint. The tone is sarcastic, indicating frustration or dissatisfaction with the product quality."
+I received the webcam today. Haven't tried it yet.,1,"The customer message can be classified as ""Order Confirmation"" or ""Product Receipt Acknowledgment."""
+I received the webcam today. Haven't tried it yet.,2,"This customer message can be classified as an ""Order Update"" or ""Product Receipt Acknowledgment."" The customer is informing the company that they have received the product but have not yet tested it."
+I received the webcam today. Haven't tried it yet.,3,The customer message can be classified as **Product Receipt Confirmation**.
+I received the webcam today. Haven't tried it yet.,4,The customer message can be classified as **Product Receipt Confirmation**.
+I received the webcam today. Haven't tried it yet.,5,"The customer message can be classified as ""Order Update"" or ""Product Receipt Confirmation."""
+I received the webcam today. Haven't tried it yet.,6,"This customer message can be classified as ""Product Receipt Confirmation."" It indicates that the customer has received the product but has not yet tested it."
+I received the webcam today. Haven't tried it yet.,7,The customer message can be classified as a **Product Receipt Confirmation**.
+I received the webcam today. Haven't tried it yet.,8,"The customer message can be classified as an ""Order Update"" or ""Product Receipt Confirmation."" The customer is acknowledging the receipt of the product but has not yet provided feedback on its functionality."
+I received the webcam today. Haven't tried it yet.,9,This customer message can be classified as an **Order Update** or **Product Acknowledgment**. The customer is confirming the receipt of a product but has not yet provided feedback on its performance.
+I received the webcam today. Haven't tried it yet.,10,"The customer message can be classified as a ""Product Receipt Confirmation."""
+I received the webcam today. Haven't tried it yet.,11,The customer message can be classified as an **Order Update** or **Product Receipt Confirmation**.
+I received the webcam today. Haven't tried it yet.,12,The customer message can be classified as **Order Update** or **Product Receipt Confirmation**.
+I received the webcam today. Haven't tried it yet.,13,This customer message can be classified as an **Order Fulfillment Update**. The customer is informing that they have received their order but have not yet tested the product.
+I received the webcam today. Haven't tried it yet.,14,"This customer message can be classified as a ""Product Receipt Confirmation."" The customer is acknowledging the receipt of the product but has not yet tested it."
+I received the webcam today. Haven't tried it yet.,15,The customer message can be classified as **Product Receipt Confirmation**.

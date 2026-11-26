@@ -1,0 +1,14 @@
+task,input,consistency_% (5),consistency_% (10),consistency_% (15),variants (15),unique_answers (15),most_common (15),words,valid_%
+sentiment,I love this product! It's exactly what I needed.,40,60,53,3,9,positive feedback or customer satisfaction,9-12,0
+sentiment,The keyboard stopped working after a week. Very disappointed,60,40,67,4,9,complaint,9-35,0
+sentiment,"Great sound quality, but the headphones are uncomfortable af",100,80,93,2,13,mixed feedback,23-28,0
+sentiment,"Oh wonderful, my new charger already broke. Just what I want",20,40,40,8,12,complaint or negative feedback,17-24,0
+sentiment,I received the webcam today. Haven't tried it yet.,40,50,47,6,13,product receipt confirmation,10-32,0
+product,"Wireless mouse, $29.99",80,80,93,2,15,Product Description:,228-286,47
+product,"USB-C hub, $49.99",80,70,47,3,15,Product Description:,254-347,0
+product,"Noise-cancelling headphones, $199, 30h battery, Bluetooth 5.",100,80,87,2,15,Product Description:,205-286,93
+product,"LED desk lamp with wireless charging pad, $59.99",80,60,60,2,15,headline,221-304,0
+extraction,I ordered item #12345 on March 15th. The delivery was fast b,60,60,60,7,11,"Order Number, Order Date, Delivery Speed, Packaging Condition",25-27,0
+extraction,My laptop stand arrived last Tuesday and one of the screws w,20,50,40,5,15,"Product, Issue, Delivery Date",18-40,0
+extraction,Order #88231: I bought a keyboard and a mouse. The keyboard ,40,60,53,6,15,"Order Number, Items Purchased, Feedback on Keyboard, Feedback on Mouse",19-42,0
+extraction,Still waiting for my refund. Nobody answers my emails!!,40,50,33,9,15,(no fields: paragraph),27-67,0

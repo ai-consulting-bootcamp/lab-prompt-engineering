@@ -1,0 +1,336 @@
+input,run,output
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,1,"Here is the extracted information from the customer feedback:
+
+- **Order Item Number**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Packaging Condition**: Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,2,"Here’s the extracted information from the customer feedback:
+
+- **Order Number:** 12345
+- **Order Date:** March 15th
+- **Delivery Experience:** Fast
+- **Packaging Condition:** Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,3,"Here is the extracted information from the customer feedback:
+
+- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Packaging Condition**: Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,4,"Here is the extracted information from the customer feedback:
+
+- **Order Item**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Packaging Condition**: Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,5,"Here is the extracted information from the customer feedback:
+
+- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Packaging Condition**: Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,6,"Here are the extracted details from the customer feedback:
+
+- **Order Number:** #12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Packaging Condition:** Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,7,"Here is the extracted information from the customer feedback:
+
+- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Packaging Condition**: Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,8,"Here’s the extracted information from the customer feedback:
+
+- **Order Number:** #12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Packaging Condition:** Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,9,"Here is the extracted information from the customer feedback:
+
+- **Order Number:** #12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Packaging Condition:** Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,10,"Here is the extracted information from the customer feedback:
+
+- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Packaging Condition**: Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,11,"Here is the extracted information from the customer feedback:
+
+- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery**: Fast
+- **Packaging Condition**: Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,12,"Here is the extracted information from the customer feedback:
+
+- **Order Number**: #12345
+- **Order Date**: March 15th
+- **Delivery**: Fast
+- **Issue**: Damaged packaging"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,13,"Here is the extracted information from the customer feedback:
+
+- **Order Number:** 12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Packaging Condition:** Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,14,"Here is the extracted information from the customer feedback:
+
+- **Order Number:** 12345
+- **Order Date:** March 15th
+- **Delivery Speed:** Fast
+- **Packaging Condition:** Damaged"
+I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,15,"Here is the extracted information from the customer feedback:
+
+- **Item Ordered**: #12345
+- **Order Date**: March 15th
+- **Delivery Speed**: Fast
+- **Issue**: Damaged packaging"
+My laptop stand arrived last Tuesday and one of the screws was missing.,1,"Customer Feedback Summary:
+
+- **Product**: Laptop stand
+- **Issue**: One screw was missing
+- **Delivery Date**: Arrived last Tuesday"
+My laptop stand arrived last Tuesday and one of the screws was missing.,2,"Customer Feedback Summary:
+
+- **Product**: Laptop stand
+- **Issue**: One screw was missing
+- **Date of Arrival**: Last Tuesday"
+My laptop stand arrived last Tuesday and one of the screws was missing.,3,"The customer feedback indicates the following information:
+
+- **Product**: Laptop stand
+- **Issue**: One screw was missing
+- **Delivery Date**: Arrived last Tuesday"
+My laptop stand arrived last Tuesday and one of the screws was missing.,4,The customer feedback indicates that the laptop stand was delivered on a Tuesday and that there was an issue with the product: one of the screws was missing.
+My laptop stand arrived last Tuesday and one of the screws was missing.,5,"The customer feedback indicates the following key information:
+
+- **Product**: Laptop stand
+- **Issue**: One of the screws was missing
+- **Delivery Date**: Arrived last Tuesday
+
+This feedback suggests a problem with the completeness of the product upon delivery."
+My laptop stand arrived last Tuesday and one of the screws was missing.,6,The customer feedback indicates that the laptop stand was received on a Tuesday and that there was an issue with the product: one of the screws was missing.
+My laptop stand arrived last Tuesday and one of the screws was missing.,7,"The customer feedback indicates the following information:
+
+- **Product**: Laptop stand
+- **Delivery Date**: Last Tuesday
+- **Issue**: One of the screws was missing."
+My laptop stand arrived last Tuesday and one of the screws was missing.,8,"The customer feedback contains the following information:
+
+- **Product**: Laptop stand
+- **Issue**: One of the screws was missing
+- **Delivery Date**: Last Tuesday (relative to the time of feedback)"
+My laptop stand arrived last Tuesday and one of the screws was missing.,9,"Customer Feedback Summary:
+- Product: Laptop stand
+- Issue: One screw was missing
+- Delivery: Arrived last Tuesday"
+My laptop stand arrived last Tuesday and one of the screws was missing.,10,"The customer feedback indicates that:
+
+- The product (laptop stand) was delivered.
+- The delivery date was last Tuesday.
+- There was an issue with the product: one of the screws was missing."
+My laptop stand arrived last Tuesday and one of the screws was missing.,11,"The customer feedback indicates the following information:
+
+- The product mentioned is a laptop stand.
+- The order was received on a specific day (last Tuesday).
+- There was a problem with the order: one of the screws was missing."
+My laptop stand arrived last Tuesday and one of the screws was missing.,12,"From the customer feedback, the following information can be extracted:
+
+- **Product**: Laptop stand
+- **Issue**: One of the screws was missing
+- **Delivery Date**: Last Tuesday (relative to the date of the feedback)"
+My laptop stand arrived last Tuesday and one of the screws was missing.,13,"Here are the key pieces of information extracted from the customer feedback:
+
+- **Product**: Laptop stand
+- **Issue**: Missing screw
+- **Delivery**: Arrived last Tuesday"
+My laptop stand arrived last Tuesday and one of the screws was missing.,14,"Customer Feedback Summary:
+
+- **Product**: Laptop stand
+- **Issue**: One of the screws was missing
+- **Delivery Date**: Last Tuesday"
+My laptop stand arrived last Tuesday and one of the screws was missing.,15,"The customer feedback indicates that the laptop stand was received on a Tuesday, and there was an issue with the product: specifically, one of the screws was missing."
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",1,"Here’s the extracted information from the customer feedback:
+
+- **Order Number:** 88231
+- **Items Purchased:** 
+  - Keyboard
+  - Mouse
+- **Feedback on Keyboard:** Positive - ""The keyboard is great.""
+- **Feedback on Mouse:** Negative - ""The mouse doesn't connect."""
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",2,"Customer Feedback Summary:
+
+- Order Number: #88231
+- Purchased Items: Keyboard and Mouse
+- Feedback on Keyboard: Positive (""the keyboard is great"")
+- Feedback on Mouse: Negative (issue with connectivity: ""the mouse doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",3,"Here's the extracted information from the customer feedback:
+
+- **Order Number**: 88231
+- **Purchased Items**: 
+  - Keyboard
+  - Mouse
+- **Feedback**: 
+  - Keyboard: Positive feedback (""great"")
+  - Mouse: Negative feedback (doesn't connect)"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",4,"Customer Feedback Summary:
+
+- Order Number: 88231
+- Items Purchased: 
+  - Keyboard: Positive feedback (""great"")
+  - Mouse: Negative feedback (issue with connectivity; ""doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",5,"From the customer feedback, the following information can be extracted:
+
+- **Order Number**: #88231
+- **Items Purchased**: 
+  - Keyboard
+  - Mouse
+- **Feedback on Keyboard**: Positive (""the keyboard is great"")
+- **Feedback on Mouse**: Negative (""the mouse doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",6,"Customer Feedback Summary:
+
+- **Order Number**: 88231
+- **Items Purchased**: Keyboard and mouse
+- **Feedback on Keyboard**: Positive - ""The keyboard is great.""
+- **Feedback on Mouse**: Negative - ""The mouse doesn't connect."""
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",7,"Here is the extracted information from the customer feedback:
+
+- **Order Number:** 88231
+- **Purchased Items:** 
+  - Keyboard
+  - Mouse
+- **Feedback on Keyboard:** Great
+- **Feedback on Mouse:** Doesn't connect (indicating an issue)"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",8,"Here’s the extracted information from the customer feedback:
+
+- **Order Number**: #88231
+- **Items Purchased**: 
+  - Keyboard
+  - Mouse
+- **Feedback on Keyboard**: Positive (""the keyboard is great"")
+- **Feedback on Mouse**: Negative (""the mouse doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",9,"**Order Information:**
+- Order Number: #88231
+
+**Items Purchased:**
+1. Keyboard
+   - Feedback: Great
+2. Mouse
+   - Feedback: Doesn't connect (issue with connectivity)"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",10,"Here is the extracted information from the customer feedback:
+
+- **Order Number**: #88231
+- **Items Purchased**: 
+  - Keyboard
+  - Mouse
+- **Feedback on Keyboard**: Positive (""the keyboard is great"")
+- **Feedback on Mouse**: Negative (""the mouse doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",11,"Order Number: 88231  
+Products Purchased: Keyboard and Mouse  
+Feedback: The keyboard is great; however, the mouse does not connect."
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",12,"From the customer feedback regarding Order #88231, the following information can be extracted:
+
+- **Order Number**: 88231
+- **Items Purchased**: 
+  - Keyboard
+  - Mouse
+- **Feedback on Keyboard**: Positive (""the keyboard is great"")
+- **Feedback on Mouse**: Negative (""the mouse doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",13,"Here’s the extracted information from the customer feedback:
+
+- **Order Number**: 88231
+- **Items Purchased**: 
+  - Keyboard
+  - Mouse
+- **Feedback on Keyboard**: Positive (""the keyboard is great"")
+- **Feedback on Mouse**: Negative ( ""the mouse doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",14,"Customer Feedback Summary:
+
+- Order Number: #88231
+- Items Purchased: Keyboard and Mouse
+- Feedback on Keyboard: Positive (""the keyboard is great"")
+- Feedback on Mouse: Negative (""the mouse doesn't connect"")"
+"Order #88231: I bought a keyboard and a mouse. The keyboard is great, the mouse doesn't connect.",15,"Here's the extracted information from the customer feedback:
+
+- **Order Number:** 88231
+- **Purchased Items:** 
+  - Keyboard
+  - Mouse
+- **Feedback:**
+  - Keyboard: Positive feedback (""the keyboard is great"")
+  - Mouse: Negative feedback (""the mouse doesn't connect"")"
+Still waiting for my refund. Nobody answers my emails!!,1,"The customer is expressing frustration about the following issues:
+
+1. **Refund Status**: The customer is still waiting for a refund.
+2. **Lack of Communication**: The customer is unable to get a response to their emails, indicating poor customer service or support.
+
+Overall, the feedback highlights dissatisfaction with the refund process and unresponsiveness from the company."
+Still waiting for my refund. Nobody answers my emails!!,2,"The customer feedback indicates the following key points:
+
+1. The customer is still waiting for a refund.
+2. The customer is experiencing difficulty in communication, as they have not received responses to their emails."
+Still waiting for my refund. Nobody answers my emails!!,3,"The customer feedback indicates the following key points:
+
+1. **Refund Issue**: The customer is waiting for a refund.
+2. **Lack of Communication**: The customer reports that nobody is responding to their emails regarding this issue.
+
+This feedback suggests a potential problem with customer service and communication related to refund processing."
+Still waiting for my refund. Nobody answers my emails!!,4,"The customer feedback indicates that the individual is experiencing issues with their refund process. Key points include:
+
+1. **Pending Refund**: The customer is still waiting to receive their refund.
+2. **Lack of Communication**: The customer has attempted to reach out via email but has not received any responses.
+
+Overall, the feedback reflects frustration regarding both the delay in the refund and the lack of customer service support."
+Still waiting for my refund. Nobody answers my emails!!,5,"From the customer feedback, the following information can be extracted:
+
+- **Issue**: The customer is waiting for a refund.
+- **Customer Service**: The customer is experiencing difficulty contacting support, as their emails are not being answered.
+- **Sentiment**: The feedback expresses frustration or dissatisfaction due to the lack of response and unresolved issue."
+Still waiting for my refund. Nobody answers my emails!!,6,"The customer feedback indicates two main issues:
+
+1. **Refund Status**: The customer is still waiting for their refund.
+2. **Lack of Communication**: The customer has not received responses to their emails, indicating frustration with customer service."
+Still waiting for my refund. Nobody answers my emails!!,7,"The customer feedback indicates two main issues:
+
+1. The customer is awaiting a refund.
+2. The customer is experiencing a lack of communication, as they mention that nobody is responding to their emails. 
+
+This feedback suggests dissatisfaction with the customer service and the refund process."
+Still waiting for my refund. Nobody answers my emails!!,8,"The customer feedback indicates the following key points:
+
+1. **Issue**: The customer is waiting for a refund.
+2. **Lack of Communication**: The customer has attempted to reach out via email but has not received any responses.
+3. **Frustration**: The tone suggests frustration due to the delay in the refund and the lack of communication from the company."
+Still waiting for my refund. Nobody answers my emails!!,9,"The customer is expressing frustration regarding their refund, indicating that they are still waiting to receive it. Additionally, they mention a lack of communication, as no one is responding to their emails."
+Still waiting for my refund. Nobody answers my emails!!,10,"The customer feedback indicates the following information:
+
+1. **Issue**: The customer is waiting for a refund.
+2. **Customer frustration**: The customer is dissatisfied because they have not received responses to their emails.
+3. **Action needed**: There is a need for follow-up on the refund process and improved communication with the customer."
+Still waiting for my refund. Nobody answers my emails!!,11,"The customer feedback indicates the following key points:
+
+1. **Refund Status**: The customer is still waiting for a refund.
+2. **Communication Issues**: The customer is experiencing difficulty in getting a response, as nobody answers their emails. 
+
+This suggests a lack of customer support or communication from the company regarding the refund process."
+Still waiting for my refund. Nobody answers my emails!!,12,"The customer feedback indicates two main issues:
+
+1. **Refund Status**: The customer is still waiting for a refund.
+2. **Communication Issues**: The customer is frustrated because they are not receiving responses to their emails. 
+
+Overall, the feedback reflects dissatisfaction with the refund process and customer service communication."
+Still waiting for my refund. Nobody answers my emails!!,13,The customer feedback indicates that the customer is experiencing a delay in receiving their refund and is frustrated due to a lack of response to their emails.
+Still waiting for my refund. Nobody answers my emails!!,14,"The customer feedback indicates the following key points:
+
+1. The customer is waiting for a refund.
+2. The customer is experiencing a lack of communication, as their emails are not being answered. 
+
+This suggests a potential issue with customer service responsiveness and the handling of refund requests."
+Still waiting for my refund. Nobody answers my emails!!,15,"The customer feedback indicates the following information:
+
+1. **Issue**: The customer is waiting for a refund.
+2. **Concern**: The customer is frustrated due to a lack of response to their emails.
+3. **Sentiment**: The feedback conveys a sense of dissatisfaction and impatience."

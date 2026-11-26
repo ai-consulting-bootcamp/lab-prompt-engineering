@@ -1,0 +1,5 @@
+input,v1 consistency_% (header),v2 consistency_% (structure),v2 most common structure,v1 words,v2 words,v2 in 80-120 words_%,v1 valid_% (no invented specs),v2 valid_% (no invented specs),v2 name kept_%,v2 unique texts
+"Wireless mouse, $29.99",93,100,price_in_title=True | key_features=True | bullets=3 | markdown=False,228-286,59-83,7,47,100,100,15
+"USB-C hub, $49.99",47,100,price_in_title=True | key_features=True | bullets=3 | markdown=False,254-347,58-74,0,0,100,100,15
+"Noise-cancelling headphones, $199, 30h battery, Bl",87,100,price_in_title=True | key_features=True | bullets=3 | markdown=False,205-286,60-81,13,93,100,100,15
+"LED desk lamp with wireless charging pad, $59.99",60,100,price_in_title=True | key_features=True | bullets=3 | markdown=False,221-304,78-88,80,0,93,100,15
